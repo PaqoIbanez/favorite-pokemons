@@ -1,7 +1,7 @@
 import { NextPage } from 'next';
 import { GetStaticProps } from 'next'
 
-import { Grid } from '@nextui-org/react';
+import { Grid, Image } from '@nextui-org/react';
 
 import { pokeApi } from '../api';
 import { Layout } from '../components/layouts';
